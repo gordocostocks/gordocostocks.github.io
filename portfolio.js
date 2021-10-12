@@ -196,10 +196,7 @@ async function updateCurrentPricePortfolio(){
 }
 
 
-portfolio.addStock("IBM",150,10)
-portfolio.addStock("AMZN",3000,2)
-portfolio.addStock("GME",100,12)
-portfolio.addStock("AAPL",130,7)
+
 
 // portfolio.addStock("IBM",150,10)
 // portfolio.addStock("AMZN",3000,2)
